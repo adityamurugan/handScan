@@ -12,7 +12,7 @@ Once finished, the extracted coordinates will be saved in a CSV file (File will 
 
 ### World coordinates
 
-Run the python file named `handScanKP_WC.py` to get the world coordinates. The rest of the steps are similar to getting the image coorinates. Not that this script will not save the annotated images.
+Run the python file named `handScanKP_WC.py` to get the world coordinates. The rest of the steps are similar to getting the image coorinates. Note that this script will not save the annotated images.
 
 ## Extracted keypoints
 
